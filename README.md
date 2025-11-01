@@ -8,7 +8,7 @@ This project is perfect for beginners to understand how data flows from a parent
 
 ## ✨ Live Preview
 > Run locally to preview (instructions below).  
-![Project Preview](./src/asset/image.png)
+![Project Preview](./src/assets/image.png)
 
 ---
 
